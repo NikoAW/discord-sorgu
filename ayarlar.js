@@ -1,8 +1,8 @@
 module.exports = {
 
-    token: "",
+    token: "132777",
     prefix: "!",
-    sahip: "",
+    sahip: "1223866512784228403",
     durum: "",
 
     api: {
